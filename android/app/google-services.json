@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337594675501",
+    "project_id": "week-10rsvp",
+    "storage_bucket": "week-10rsvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337594675501:android:d2743b74182e0de8d423a4",
+        "android_client_info": {
+          "package_name": "com.zeeshan.week10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIqT3GD9nORvM7wBv_087A-5eLe9RgvHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
